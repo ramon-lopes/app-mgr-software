@@ -1,16 +1,28 @@
-# app_mgr_software
+# 📱 App Gerenciador de Estoque
 
-A new Flutter project.
+Aplicativo mobile desenvolvido em **Flutter** para gerenciamento de inventário e controle de produtos. Este projeto consome uma API RESTful para persistência de dados.
 
-## Getting Started
+## 🔗 Integração Full Stack
+Este aplicativo é o Front-end do sistema (Client).
+O Back-end (API Java + Spring Boot) pode ser encontrado neste repositório:
+👉 **[Acesse o Repositório da API aqui](https://github.com/ramon-lopes/estoque-api-backend)**
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias e Arquitetura
+* **Linguagem:** Dart
+* **Framework:** Flutter
+* **Comunicação API:** HTTP
+* **Arquitetura:** MVC (Model-View-Controller)
+* **Padrões de Projeto:** Utilização de DTOs, Services e Controllers.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Funcionalidades
+* 🔐 **Login & Security:** Autenticação segura de usuários.
+* 📦 **Inventário:** Controle e visualização de estoque.
+* 📋 **Listagem:** Visualização de lista de produtos.
+* 📝 **CRUD:** Cadastro e edição de itens.
+* 🔄 **Integração:** Conexão em tempo real com banco de dados via API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+*(Espaço reservado para prints das telas do App)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Desenvolvido por **Ramon Lopes**.
