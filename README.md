@@ -20,6 +20,6 @@ O Back-end (API Java + Spring Boot) pode ser encontrado neste repositório:
 * 📋 **Listagem:** Visualização de lista de produtos.
 * 📝 **CRUD:** Cadastro e edição de itens.
 * 🔄 **Integração:** Conexão em tempo real com banco de dados via API.
-* 
+
 ---
 Desenvolvido por **Ramon Lopes**.
